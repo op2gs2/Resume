@@ -4,13 +4,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/op2gs2/Resume)
 
 ## Introduce 
-Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym University majoring in Software. My Interest is Security, Artificial Intelligence, Privacy Law, Car, and IoT. I have studied Security and Artificial Intelligence, experienced several projects, and researched about it. Recently, I am focusing on research about Cyber Security by AI (Data-Driven Security). I can make a ML/DL models based on security data. </br> 
+Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym University majoring in Software. My Interest is Security, Artificial Intelligence, Privacy Law, In-Vehicle Security, and IoT Security. I have studied Security and Artificial Intelligence, experienced several projects, and researched about it. Recently, I am focusing on research about Cyber Security by AI (Data-Driven Security). I can make a ML/DL models based on security data. </br> 
 
 > ✨ If you want to see more about me, [Click this site](https://www.linkedin.com/in/%EB%8F%99%EC%98%81-%EA%B9%80-58a936221/). ✨
-
-## Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=op2gs2&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=op2gs2&layout=compact&theme=tokyonight)
 
 ## Experience
 
@@ -61,4 +57,3 @@ detection of DoS Attack (ASK-2022)
     - Korean (Native)
     - English (Intermediate ~ Advanced; TOEIC 825)
     - Japanese (Beginner ~ Intermediate)
-
