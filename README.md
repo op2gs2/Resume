@@ -6,7 +6,7 @@
 ## Introduce 
 Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym University majoring in Software. My Interest is Security, Artificial Intelligence, Privacy Law, Car, and IoT. I have studied Security and Artificial Intelligence, experienced several projects, and researched about it. Recently, I am focusing on research about Cyber Security by AI (Data-Driven Security). I can make a ML/DL models based on security data. </br> 
 
-> ✨ If you want to see more about me at [this site](https://www.linkedin.com/in/%EB%8F%99%EC%98%81-%EA%B9%80-58a936221/). ✨
+> ✨ If you want to see more about me, [Click this site](https://www.linkedin.com/in/%EB%8F%99%EC%98%81-%EA%B9%80-58a936221/). ✨
 
 ## Experience
 
