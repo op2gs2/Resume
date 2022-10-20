@@ -8,6 +8,10 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
 
 > ✨ If you want to see more about me, [Click this site](https://www.linkedin.com/in/%EB%8F%99%EC%98%81-%EA%B9%80-58a936221/). ✨
 
+## Github Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=op2gs2&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=op2gs2&layout=compact&theme=tokyonight)
+
 ## Experience
 
 - Education 👨‍🎓
