@@ -16,11 +16,14 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
         - Cyber Security Club (2021.09.~)
         - [Data-driven Cybersecurity Research Lab](https://sites.google.com/view/dcr-cybersec/) (2022.08.~)
 
+- Projects 👨‍🔬
+    - [Capstone Design] Service of CNN model based Windows malware detection  and PE file analysis (2022.03.~2022.05.)
+    - [DCRL LAB] Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (2022.08.~)
+
 - Publications 📚
     - A comparative study of amendments to the Privacy Act by countries (CISC-W'21)
     - Security check of wired/wireless IP camera vulnerabilities (2022KIISCCC)
-    - A Study on Machine Learning  model for
-detection of DoS Attack (ASK-2022)
+    - A Study on Machine Learning  model for detection of DoS Attack (ASK-2022)
 
 - Awards 🏆
     - [Hallym University] Book Debate Contest (2017.11.)
@@ -39,10 +42,12 @@ detection of DoS Attack (ASK-2022)
     - Program Language
         - C
         - Python
+        - Assembly Language (IA-32, MIPS)
     - Knowledges
         - ML/DL
         - Cyber Security
         - Network & Operation System
+        - Computer Architecture
         - Privacy Law
         - Car Hacking
     - Software & Tools
