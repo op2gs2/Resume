@@ -12,14 +12,14 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
 
 - Education 👨‍🎓
     - Hallym University (2017.03.~2023.02.)
-        - Cyber Security Club: "Homebrew" (2018.03.~2018.12.)
+        - Cyber Security Club: "Homebrew" (2018.03.~2018.12.;Chief)
         - Cyber Security Club (2021.09.~)
-        - [Data-driven Cybersecurity Research Lab](https://sites.google.com/view/dcr-cybersec/) (2022.08.~)
+        - [Data-driven Cybersecurity Research Lab](https://sites.google.com/view/dcr-cybersec/) (2022.08.~;Member)
         - Receiving a full scholarship from [Lotte scholarship Foundation](https://www.lottefoundation.or.kr/) (2017.08.~2022.08.)
 
 - Projects 👨‍🔬
-    - [Capstone Design] Service of CNN model based Windows malware detection  and PE file analysis (2022.03.~2022.05.)
-    - [DCRL LAB] Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (2022.08.~)
+    - [Capstone Design] Service of CNN model based Windows malware detection  and PE file analysis (2022.03.~2022.05.;Member)
+    - [DCRL LAB] Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (2022.08.~;Member)
 
 - Publications 📚
     - A comparative study of amendments to the Privacy Act by countries (CISC-W'21)
