@@ -16,7 +16,8 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
         - Cyber Security Club (2021.09.~2022.12.; Member)
         - [Data-driven Cybersecurity Research Lab](https://sites.google.com/view/dcr-cybersec/) (2022.08.~2023.02.;Member)
         - Receiving a full scholarship from [Lotte scholarship Foundation](https://www.lottefoundation.or.kr/) (2017.08.~2022.08.)
-    - Korea University / School of Cybersecurity (2023.03.~) : Master's degree
+    - Korea University / Graduateschool of Cybersecurity (2023.03.~) : Master's degree
+        - [Hacking and Countermeasure Research Lab](https://ocslab.hksecurity.net/welcome) (2023.02~;Member)
 
 - Projects 👨‍🔬
     - [Capstone Design] Service of CNN model based Windows malware detection  and PE file analysis (2022.03.~2022.05.;Member)
