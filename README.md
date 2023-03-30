@@ -4,7 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/op2gs2/Resume)
 
 ## Introduce 
-Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym University majoring in Software. My Interest is Security, Artificial Intelligence, Privacy Law, In-Vehicle Security, and IoT Security. I have studied Security and Artificial Intelligence, experienced several projects, and researched about it. Recently, I am focusing on research about Cyber Security by AI (Data-Driven Security). I can make a ML/DL models based on security data. </br> 
+Hello, my name is DongYoung Kim. I'm an graduate student at Korea University majoring in Cybersecurity. My Interest is Security, Artificial Intelligence, Privacy Law, In-Vehicle Security, and IoT Security. I have studied Security and Artificial Intelligence, experienced several projects, and researched about it. Recently, I am focusing on research about Cyber Security by AI (Data-Driven Security). I can make a ML/DL models based on security data. </br> 
 
 > ✨ If you want to see more about me, [Click this site](https://www.linkedin.com/in/%EB%8F%99%EC%98%81-%EA%B9%80-58a936221/). ✨
 
@@ -16,7 +16,7 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
         - Cyber Security Club (2021.09.~2022.12.; Member)
         - [Data-driven Cybersecurity Research Lab](https://sites.google.com/view/dcr-cybersec/) (2022.08.~2023.02.;Member)
         - Receiving a full scholarship from [Lotte scholarship Foundation](https://www.lottefoundation.or.kr/) (2017.08.~2022.08.)
-    - Korea University / Graduate School of Cybersecurity (2023.03.~) : Master's degree
+    - Korea University / School of Cybersecurity (2023.03.~) : Master's degree
         - [Hacking and Countermeasure Research Lab](https://ocslab.hksecurity.net/welcome) (2023.02~;Member)
 
 - Projects 👨‍🔬
@@ -52,7 +52,7 @@ Hello, my name is DongYoung Kim. I'm an undergraduate student at Hallym Universi
         - Network & Operation System
         - Computer Architecture
         - Privacy Law
-        - Car Hacking
+        - Car Hacking (CAN Bus)
     - Software & Tools
         - Amazon Web Service
         - Git / Github
