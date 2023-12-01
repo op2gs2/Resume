@@ -27,6 +27,7 @@ Hello, my name is DongYoung Kim. I'm an graduate student at Korea University maj
     - A comparative study of amendments to the Privacy Act by countries (CISC-W'21)
     - Security check of wired/wireless IP camera vulnerabilities (2022KIISCCC)
     - A Study on Machine Learning  model for detection of DoS Attack (ASK-2022)
+    - [RTPS Attack Dataset Description](https://arxiv.org/abs/2311.14496) (arXiv-2023)
 
 - Awards 🏆
     - [Hallym University] Book Debate Contest (2017.11.)
